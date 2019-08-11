@@ -60,6 +60,8 @@ title: Profile
 
 - 応用情報技術者試験 2016/12
 
+## Activity
+
 ### Techbook (Not Commercial)
 
 |title|event|date|
