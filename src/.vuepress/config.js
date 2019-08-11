@@ -1,4 +1,6 @@
 module.exports = {
+  dest: 'docs/',
+  base: '/site/',
   title: 'rb_de0',
   description: 'rb_de0 profile',
   locales: {

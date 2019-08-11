@@ -10,8 +10,8 @@
     "vuepress": "^1.0.3"
   },
   "scripts": {
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs",
+    "dev": "vuepress dev src",
+    "build": "vuepress build src",
     "serve": "node index.js"
   },
   "dependencies": {
