@@ -1,6 +1,11 @@
 ---
+sidebar: false
 title: Contact
-footer: Copyright © 2019 rb_de0 All Rights Reserved. | powered by VuePress.
 ---
 
 # Contact
+
+|-|-|
+|:--|:--|
+|Mail|[rebirth.de0@gmail.com](mailto:rebirth.de0@gmail.com)|
+|Twitter|[rb_de0](https://twitter.com/rb_de0)|
