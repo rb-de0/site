@@ -28,6 +28,8 @@ title: Profile
 
 - FXシステムトレード
 - 温泉
+- ロードバイク
+- 登山
 
 ## Skill
 
