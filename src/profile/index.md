@@ -19,9 +19,9 @@ title: Profile
 
 ## Blog
 
-- [Blog](https://blog.reb-dev.com)
-- [Memo](https://note.reb-dev.com)
-- [温泉地巡りレポート](https://hotspring.fun)
+- [Blog](https://https://blog.rbde0.com/)
+- [Memo](https://https://note.rbde0.com/)
+- [温泉地巡りレポート](https://https://hotspring.rbde0.com/)
 
 
 ## Interest
