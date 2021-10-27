@@ -20,16 +20,15 @@ title: Profile
 ## Blog
 
 - [Blog](https://blog.rbde0.com/)
-- [Memo](https://note.rbde0.com/)
-- [温泉地巡りレポート](https://hotspring.rbde0.com/)
-
 
 ## Interest
 
 - FXシステムトレード
 - 温泉
 - ロードバイク
+- バイク
 - 登山
+- ゲーム
 
 ## Skill
 
