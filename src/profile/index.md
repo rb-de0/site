@@ -17,10 +17,6 @@ title: Profile
 - [SpeakerDeck](https://speakerdeck.com/rbde0)
 - [AtCoder](https://atcoder.jp/users/rb_de0)
 
-## Blog
-
-- [Blog](https://blog.rbde0.com/)
-
 ## Interest
 
 - FXシステムトレード
