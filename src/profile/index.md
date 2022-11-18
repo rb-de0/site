@@ -12,7 +12,7 @@ title: Profile
 ## Social
 
 - [Twitter](https://twitter.com/rb_de0)
-- [Github](https://twitter.com/rb_de0)
+- [Github](https://github.com/rb-de0)
 - [Qiita](https://qiita.com/rb-de0)
 - [SpeakerDeck](https://speakerdeck.com/rbde0)
 - [AtCoder](https://atcoder.jp/users/rb_de0)
@@ -25,6 +25,7 @@ title: Profile
 - バイク
 - 登山
 - ゲーム
+- アニメ
 
 ## Skill
 
@@ -59,10 +60,6 @@ title: Profile
 - 情報処理安全確保支援士試験合格(未登録) 2021/06
 
 ## Activity
-
-### Achievements
-
-- [会話bot](https://nibe.rbde0.com)
 
 ### Techbook (Not Commercial)
 
