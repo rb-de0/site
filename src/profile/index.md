@@ -7,7 +7,7 @@ title: Profile
 |key|value|
 |:--|:--|
 |name|rb_de0|
-|job|iOS Engineer at Dwango|
+|job|iOS Application Engineer|
 
 ## Social
 
@@ -19,7 +19,6 @@ title: Profile
 
 ## Interest
 
-- FXシステムトレード
 - 温泉
 - バイク
 - 登山
